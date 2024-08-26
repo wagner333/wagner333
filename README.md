@@ -17,6 +17,7 @@ nome é Wagner 👋 Dev FullStack
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="react">
             <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" title="vue">
             <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass">
+            <img src="https://img.shields.io/badge/Laravel-9.x-brightgreen" alt="laravel" title="laravel">
             
 </div>
 
