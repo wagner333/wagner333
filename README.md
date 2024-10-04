@@ -11,7 +11,13 @@ Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os di
   </a>
 </div>
 
-<img src="https://camo.githubusercontent.com/818d44c1c81993e65f8493de62ce6eab9365b1b79d2328ed064b7a1a3b09e604/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f73697a653d3235266475726174696f6e3d3432303026636f6c6f723d314243353342266865696768743d3530266c696e65733d6563686f2b2532324f6c2543332541312532432b6d756e646f212532322663656e7465723d74727565" alt="Typing" data-canonical-src="https://readme-typing-svg.herokuapp.com/?size=25&amp;duration=4200&amp;color=1BC53B&amp;height=50&amp;lines=echo+%22Ol%C3%A1%2C+mundo!%22&amp;center=true" style="max-width: 100%;">
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://camo.githubusercontent.com/818d44c1c81993e65f8493de62ce6eab9365b1b79d2328ed064b7a1a3b09e604/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f73697a653d3235266475726174696f6e3d3432303026636f6c6f723d314243353342266865696768743d3530266c696e65733d6563686f2b2532324f6c2543332541312532432b6d756e646f212532322663656e7465723d74727565" alt="Typing" data-canonical-src="https://readme-typing-svg.herokuapp.com/?size=25&amp;duration=4200&amp;color=1BC53B&amp;height=50&amp;lines=echo+%22Ol%C3%A1%2C+mundo!%22&amp;center=true" style="max-width: 100%;">
+  </a>
+</div>
+
         
 ## Meus Conhecimentos
 <div dir="auto"><br>
