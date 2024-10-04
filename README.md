@@ -1,11 +1,12 @@
 <div align="center">
+  
+# 👋 Prazer, meu nome é Wagner 
 
-# Prazer, meu nome é Wagner 
-
-Este projeto é uma plataforma para desenvolvimento de aplicações web, voltada para desenvolvedores e entusiastas da tecnologia. Aqui, você encontrará ferramentas e recursos que facilitam a criação de aplicações robustas e escaláveis, além de tutoriais e exemplos práticos.
+Desenvolvedor apaixonado pela web, sempre pensando em aprender mais todos os dias.
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os dias. Meu objetivo é crescer na área e contribuir para projetos inovadores.
+Sou desenvolvedor fullstack, utilizando Laravel e React. Tenho mais de 8 meses de estudo e consigo desenvolver APIs REST e sites dinâmicos com React.
+
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
