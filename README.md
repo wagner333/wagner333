@@ -44,3 +44,10 @@ Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os di
 
 </div>
 
+<h4 align="center" class="heading-element" dir="auto"><samp>Profile View Counter:</samp></h4>
+
+<p align="center" dir="auto">
+  <a href="http://www.pudim.com.br/" rel="nofollow">
+    <img align="middle" src="https://camo.githubusercontent.com/4f3e00a89a53d7b6d45eba4ac28d17731f9a2e7053314b86abfc4e2df3c0289a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f67756969706564726f736f2f636f756e742e737667" title="Totally not me refreshing the page to get 'views' >:D" data-canonical-src="https://profile-counter.glitch.me/guiipedroso/count.svg" style="max-width: 100%;">
+  </a>
+</p>
