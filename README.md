@@ -12,7 +12,7 @@ Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os di
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner333&layout=pie" alt="Wagner Langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner333&layout=compact" alt="Top Langs" />
   </a>
 </div>
 
