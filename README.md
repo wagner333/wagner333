@@ -15,6 +15,13 @@ Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os di
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
+  </a>
+</div>
+
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" style="max-width: 100%;">
   </a>
 </div>  
