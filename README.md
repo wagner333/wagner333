@@ -3,9 +3,8 @@
 Este projeto é uma plataforma para desenvolvimento de aplicações web, voltada para desenvolvedores e entusiastas da tecnologia. Aqui, você encontrará ferramentas e recursos que facilitam a criação de aplicações robustas e escaláveis, além de tutoriais e exemplos práticos.
 ## 🚀 Sobre mim
 Sou um desenvolvedor full-stack apaixonado por aprender coisas novas todos os dias. Meu objetivo é crescer na área e contribuir para projetos inovadores.
-<div>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?wagner333=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
         
 ## Meus Conhecimentos
 <div dir="auto"><br>
