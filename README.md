@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👋 Prazer, meu nome é Wagner 
+# ![image](https://github.com/user-attachments/assets/d78d4afc-84a6-4c68-a957-1d7b9797fac0)
+ Prazer, meu nome é Wagner 
 
 Desenvolvedor apaixonado pela web, sempre pensando em aprender mais todos os dias.
 
