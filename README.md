@@ -37,6 +37,16 @@ Sou desenvolvedor fullstack, utilizando Laravel e React. Tenho mais de 8 meses d
    <a href="https://img.shields.io/badge/Laravel-f5382e?style=for-the-badge&logo=laravel&logoColor=white"><img align="middle" alt="laravel" src="https://img.shields.io/badge/Laravel-f5382e?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
    <a href="https://img.shields.io/badge/PHP-a8c7fa?style=for-the-badge&logo=php&logoColor=black"><img align="middle" alt="php" src="https://img.shields.io/badge/PHP-a8c7fa?style=for-the-badge&logo=php&logoColor=black" style="max-width: 100%;"></a>
    <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img align="middle" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img align="middle" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="middle" alt="Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img align="middle" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="max-width: 100%;">
+</a>
+
 </div>
 
 ## Bancos de dados
