@@ -46,6 +46,13 @@ Sou desenvolvedor fullstack, utilizando Laravel e React. Tenho mais de 8 meses d
 <a href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img align="middle" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="max-width: 100%;">
 </a>
+<a href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="middle" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img align="middle" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;">
+</a>
+
 
 </div>
 
