@@ -52,6 +52,10 @@ Sou desenvolvedor fullstack, utilizando Laravel e React. Tenho mais de 8 meses d
 <a href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="middle" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;">
 </a>
+<a href="https://nestjs.com/" target="_blank">
+  <img align="middle" alt="NestJS" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;">
+</a>
+
 
 
 </div>
