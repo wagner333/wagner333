@@ -10,8 +10,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/></code>
+
 
   
 </p>
