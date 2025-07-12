@@ -11,9 +11,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"/></code>
 
   
